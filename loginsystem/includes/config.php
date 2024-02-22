@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','localhost');
+define('DB_SERVER','rds-endpoint');
 define('DB_USER','user_name');
 define('DB_PASS' ,'password');
 define('DB_NAME', 'loginsystem');
